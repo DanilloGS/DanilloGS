@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danillo</h1>
 <h3 align="center">A developer from Brazil</h3>
 
-- <img align="center" src="https://media2.giphy.com/media/vwGc9ftI4ibkWhrIiB/200w.gif" width="24px" height="24px"> I’m currently working on **IBM**
+- <img align="center" src="https://media2.giphy.com/media/vwGc9ftI4ibkWhrIiB/200w.gif" width="24px" height="24px">I’m currently working on **IBM**
  
 - 🌱 I’m currently learning **Java**
 
