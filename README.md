@@ -20,7 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danillogs&hide=stars&show_icons=true&theme=dark" alt="danillogs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danillogs&hide=css&theme=dark&layout=compact" alt="danillogs" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danillogs&theme=dark" alt="danillogs" /></p>
