@@ -3,8 +3,6 @@
 
 - <img align="center" src="https://media2.giphy.com/media/vwGc9ftI4ibkWhrIiB/200w.gif" width="24px" height="24px">I’m currently working on **IBM**
  
-- 🌱 I’m currently learning **Java**
-
 - 💬 Ask me about **React, JavaScript or NodeJS**
 
 - 📫 How to reach me **danillosouza1704@gmail.com** or **DanilloGS** on Telegram
