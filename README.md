@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danillo</h1>
 <h3 align="center">A developer from Brazil</h3>
 
-- <img align="center" src="https://media2.giphy.com/media/vwGc9ftI4ibkWhrIiB/200w.gif" width="24px" height="24px">I’m currently working on **IBM**
- 
 - 💬 Ask me about **React, JavaScript or NodeJS**
 
 - 📫 How to reach me **danillosouza1704@gmail.com** or **DanilloGS** on Telegram
