@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, JavaScript or NodeJS**
 
-- 📫 How to reach me **danillosouza1704@gmail.com** or **DanilloGS** on Telegram
+- 📫 How to reach me **danillosouzadev@gmail.com** or **DanilloGS** on Telegram
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
